@@ -1,8 +1,6 @@
 
 
-\################### ENGLISH ###########################################################################
-
-
+############################# ENGLISH ##################################################
 
 Chicago 1930 - Mod 2026 (HUD, Resolution \& FPS Fix)
 
@@ -10,7 +8,7 @@ This mod solves the tiny interface (HUD) issue on modern displays (1440p/4K), en
 
 
 
-Quick Installation
+\## Quick Installation
 
 Go to your game folder (Steam\\steamapps\\common\\Chicago 1930).
 
@@ -24,11 +22,9 @@ Download the latest compiled version of our SDL2.dll and place it in the folder 
 
 
 
-\################### FRENCH ############################################################################
+############################# FRENCH ##################################################
 
-
-
-\# Chicago 1930 - Mod 2026 (HUD, Resolution \& FPS Fix)
+Chicago 1930 - Mod 2026 (HUD, Resolution \& FPS Fix)
 
 
 
